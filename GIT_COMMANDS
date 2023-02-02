@@ -1,0 +1,10 @@
+GIT COMMANDS
+
+git init
+git status
+git add. (to add all the files)
+git add filename
+git status
+git remote add origin add github URL
+git commit -m "msg required"
+git push origin master
