@@ -8,3 +8,5 @@ git status
 git remote add origin add github URL
 git commit -m "msg required"
 git push origin master
+
+git remote remove origin(to remove the origin created)
